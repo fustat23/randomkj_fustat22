@@ -18,3 +18,6 @@ print("파일쓰기 종료!")
     
 f1.close()
 f2.close()
+
+
+: end
